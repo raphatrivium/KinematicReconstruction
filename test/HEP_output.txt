@@ -1,0 +1,849 @@
+===================================================================================
+RUNNING SELECTION DManalysis ON TTToSemiLeptonic_test_16 FILES 0_0 (SYSID=0, Universe=0)
+===================================================================================
+Number of files: 1
+Number of entries considered: 4000
+-----------------------------------------------------------------------------------
+
+WARNING: Missing dataset TTToSemiLeptonic_test in efficiency file. Fallbacking to TTTo2L2Nu.
+vecJet.Pt():30.5957 vecJet.Eta():-0.677612 vecJet.Phi():-1.36768 vecJet.M():-4.67541
+vecJet.Pt():20.4662 vecJet.Eta():-0.645264 vecJet.Phi():1.12305 vecJet.M():5.36584
+lep_1.Pt():81.5706 lep_1.Eta():-1.58423 lep_1.Phi():2.08789 lep_1.M():0.000510999
+lep_2.Pt():57.7897 lep_2.Eta():-1.5896 lep_2.Phi():0.337097 lep_2.M():0.105658
+MET_JER_pt:76.0717 MET_JER_phi:-2.7067
+ttbar_reco: 0
+------------------------
+vecJet.Pt():141.798 vecJet.Eta():1.42139 vecJet.Phi():1.30029 vecJet.M():19.8736
+vecJet.Pt():119.502 vecJet.Eta():-0.067276 vecJet.Phi():-2.27637 vecJet.M():-11.1585
+vecJet.Pt():29.545 vecJet.Eta():-0.671753 vecJet.Phi():0.882935 vecJet.M():6.43838
+vecJet.Pt():26.8387 vecJet.Eta():-1.9751 vecJet.Phi():-0.34137 vecJet.M():5.77417
+lep_1.Pt():109.308 lep_1.Eta():0.161591 lep_1.Phi():-0.274414 lep_1.M():0.000511
+lep_2.Pt():31.2923 lep_2.Eta():-0.709839 lep_2.Phi():1.73462 lep_2.M():0.105658
+MET_JER_pt:132.666 MET_JER_phi:-2.41464
+ttbar_reco: 0
+------------------------
+vecJet.Pt():123.837 vecJet.Eta():-0.769897 vecJet.Phi():2.52197 vecJet.M():23.4686
+vecJet.Pt():76.668 vecJet.Eta():-0.307312 vecJet.Phi():-1.40405 vecJet.M():12.2338
+vecJet.Pt():64.7502 vecJet.Eta():-1.93311 vecJet.Phi():-0.598999 vecJet.M():-7.57524
+vecJet.Pt():32.7772 vecJet.Eta():0.0347061 vecJet.Phi():1.08862 vecJet.M():-5.21209
+lep_1.Pt():95.7598 lep_1.Eta():-0.339417 lep_1.Phi():0.610352 lep_1.M():0.000510999
+lep_2.Pt():49.111 lep_2.Eta():-1.7002 lep_2.Phi():1.2749 lep_2.M():0.105658
+MET_JER_pt:80.2876 MET_JER_phi:2.22579
+ttbar_reco: 1
+------------------------
+vecJet.Pt():189.981 vecJet.Eta():-0.745361 vecJet.Phi():2.04736 vecJet.M():-20.6556
+vecJet.Pt():111.595 vecJet.Eta():-1.69727 vecJet.Phi():-1.94507 vecJet.M():14.7982
+vecJet.Pt():96.6529 vecJet.Eta():0.568848 vecJet.Phi():-0.838623 vecJet.M():-15.6022
+vecJet.Pt():49.2711 vecJet.Eta():0.305664 vecJet.Phi():-0.40979 vecJet.M():6.5565
+lep_1.Pt():90.8989 lep_1.Eta():-0.0284767 lep_1.Phi():1.896 lep_1.M():0.000510999
+lep_2.Pt():30.7956 lep_2.Eta():-0.351868 lep_2.Phi():-1.16455 lep_2.M():0.105658
+MET_JER_pt:83.5826 MET_JER_phi:-0.738959
+ttbar_reco: 1
+------------------------
+vecJet.Pt():96.799 vecJet.Eta():-1.90283 vecJet.Phi():1.93408 vecJet.M():-11.1372
+vecJet.Pt():72.1742 vecJet.Eta():-1.89502 vecJet.Phi():-0.858765 vecJet.M():-10.6295
+lep_1.Pt():77.0179 lep_1.Eta():-0.681641 lep_1.Phi():0.358215 lep_1.M():0.105658
+lep_2.Pt():30.2312 lep_2.Eta():-1.34985 lep_2.Phi():-1.52686 lep_2.M():0.000510999
+MET_JER_pt:91.1357 MET_JER_phi:-2.96994
+ttbar_reco: 1
+------------------------
+vecJet.Pt():83.6766 vecJet.Eta():-1.30469 vecJet.Phi():-3.08984 vecJet.M():-11.833
+vecJet.Pt():64.6089 vecJet.Eta():-0.081131 vecJet.Phi():2.13574 vecJet.M():9.17354
+lep_1.Pt():101.426 lep_1.Eta():-0.337646 lep_1.Phi():2.95215 lep_1.M():0.000510999
+lep_2.Pt():28.868 lep_2.Eta():-0.634766 lep_2.Phi():0.333191 lep_2.M():0.000510999
+MET_JER_pt:117.4 MET_JER_phi:-0.460152
+ttbar_reco: 0
+------------------------
+vecJet.Pt():111.057 vecJet.Eta():0.819458 vecJet.Phi():0.579102 vecJet.M():-12.2218
+vecJet.Pt():71.7707 vecJet.Eta():1.61011 vecJet.Phi():-2.04785 vecJet.M():-11.4022
+lep_1.Pt():53.0736 lep_1.Eta():1.2749 lep_1.Phi():-0.920776 lep_1.M():0.105658
+lep_2.Pt():49.9053 lep_2.Eta():1.36572 lep_2.Phi():-2.77539 lep_2.M():0.105658
+MET_JER_pt:85.4963 MET_JER_phi:1.92495
+ttbar_reco: 1
+------------------------
+vecJet.Pt():196.956 vecJet.Eta():0.247894 vecJet.Phi():0.595581 vecJet.M():-16.8343
+lep_1.Pt():50.8978 lep_1.Eta():-1.23242 lep_1.Phi():-1.60156 lep_1.M():0.105658
+lep_2.Pt():27.2773 lep_2.Eta():1.05347 lep_2.Phi():-1.05688 lep_2.M():0.105658
+MET_JER_pt:212.27 MET_JER_phi:-2.81081
+ttbar_reco: 0
+------------------------
+vecJet.Pt():52.6825 vecJet.Eta():-1.59009 vecJet.Phi():-0.773682 vecJet.M():-7.27022
+lep_1.Pt():88.7631 lep_1.Eta():-2.04053 lep_1.Phi():-3.07324 lep_1.M():0.105658
+lep_2.Pt():38.0271 lep_2.Eta():-1.78491 lep_2.Phi():1.02783 lep_2.M():0.000510997
+MET_JER_pt:84.6447 MET_JER_phi:-1.43653
+ttbar_reco: 0
+------------------------
+vecJet.Pt():116.389 vecJet.Eta():-1.57788 vecJet.Phi():-1.92725 vecJet.M():-24.6782
+vecJet.Pt():38.8176 vecJet.Eta():-0.158997 vecJet.Phi():1.38745 vecJet.M():5.81478
+lep_1.Pt():55.9799 lep_1.Eta():0.593994 lep_1.Phi():0.011961 lep_1.M():0.105658
+lep_2.Pt():28.5938 lep_2.Eta():-0.984375 lep_2.Phi():-0.0715027 lep_2.M():0.000510999
+MET_JER_pt:101.086 MET_JER_phi:2.20604
+ttbar_reco: 0
+------------------------
+vecJet.Pt():56.3747 vecJet.Eta():-0.314209 vecJet.Phi():1.42749 vecJet.M():6.70774
+vecJet.Pt():34.7994 vecJet.Eta():0.133179 vecJet.Phi():-0.522095 vecJet.M():-5.49788
+vecJet.Pt():21.351 vecJet.Eta():-0.795288 vecJet.Phi():-2.89355 vecJet.M():-6.09213
+lep_1.Pt():53.9834 lep_1.Eta():1.08374 lep_1.Phi():0.516602 lep_1.M():0.105658
+lep_2.Pt():39.5293 lep_2.Eta():1.56738 lep_2.Phi():2.30518 lep_2.M():0.000511
+MET_JER_pt:70.8045 MET_JER_phi:-3.08511
+ttbar_reco: 1
+------------------------
+vecJet.Pt():67.6297 vecJet.Eta():0.00831604 vecJet.Phi():-1.32983 vecJet.M():-9.5065
+vecJet.Pt():61.8526 vecJet.Eta():-0.867432 vecJet.Phi():0.867676 vecJet.M():-8.48805
+lep_1.Pt():53.3031 lep_1.Eta():-1.31836 lep_1.Phi():-1.93066 lep_1.M():0.105658
+lep_2.Pt():21.6965 lep_2.Eta():0.57605 lep_2.Phi():-2.84766 lep_2.M():0.105658
+MET_JER_pt:79.814 MET_JER_phi:1.58638
+ttbar_reco: 1
+------------------------
+vecJet.Pt():106.705 vecJet.Eta():0.238983 vecJet.Phi():2.99023 vecJet.M():-15.3113
+vecJet.Pt():60.2427 vecJet.Eta():0.984985 vecJet.Phi():-0.192291 vecJet.M():-12.0994
+vecJet.Pt():43.0345 vecJet.Eta():1.17871 vecJet.Phi():0.893433 vecJet.M():8.93183
+lep_1.Pt():67.13 lep_1.Eta():0.776001 lep_1.Phi():-2.33105 lep_1.M():0.000510998
+lep_2.Pt():43.3484 lep_2.Eta():-0.384827 lep_2.Phi():2.9707 lep_2.M():0.105658
+MET_JER_pt:83.1584 MET_JER_phi:0.525594
+ttbar_reco: 0
+------------------------
+vecJet.Pt():31.692 vecJet.Eta():-0.557983 vecJet.Phi():1.43408 vecJet.M():4.4226
+vecJet.Pt():20.532 vecJet.Eta():-0.667969 vecJet.Phi():-0.563354 vecJet.M():4.37964
+lep_1.Pt():71.3578 lep_1.Eta():-1.37036 lep_1.Phi():-1.10938 lep_1.M():0.000511002
+lep_2.Pt():34.6702 lep_2.Eta():-2.04492 lep_2.Phi():0.667236 lep_2.M():0.105658
+MET_JER_pt:56.8392 MET_JER_phi:1.65688
+ttbar_reco: 1
+------------------------
+vecJet.Pt():158.757 vecJet.Eta():1.68506 vecJet.Phi():1.97949 vecJet.M():17.9759
+vecJet.Pt():32.6272 vecJet.Eta():0.745361 vecJet.Phi():1.00854 vecJet.M():-6.20793
+vecJet.Pt():27.4207 vecJet.Eta():1.00903 vecJet.Phi():1.94336 vecJet.M():7.41197
+lep_1.Pt():117.593 lep_1.Eta():1.57544 lep_1.Phi():-1.10522 lep_1.M():0.000510999
+lep_2.Pt():15.7555 lep_2.Eta():-0.344177 lep_2.Phi():-0.495544 lep_2.M():0.105658
+MET_JER_pt:115.025 MET_JER_phi:-1.83828
+ttbar_reco: 1
+------------------------
+vecJet.Pt():180.114 vecJet.Eta():-0.920654 vecJet.Phi():-2.18311 vecJet.M():-12.2656
+vecJet.Pt():119.557 vecJet.Eta():-0.0156136 vecJet.Phi():1.18213 vecJet.M():-22.8324
+lep_1.Pt():59.0992 lep_1.Eta():0.155975 lep_1.Phi():0.51062 lep_1.M():0.000510999
+lep_2.Pt():44.9919 lep_2.Eta():-0.251709 lep_2.Phi():-1.29541 lep_2.M():0.105658
+MET_JER_pt:60.181 MET_JER_phi:1.74627
+ttbar_reco: 0
+------------------------
+vecJet.Pt():33.0293 vecJet.Eta():1.47363 vecJet.Phi():1.31616 vecJet.M():-5.52395
+lep_1.Pt():57.8566 lep_1.Eta():1.78516 lep_1.Phi():1.82056 lep_1.M():0.105658
+lep_2.Pt():16.3726 lep_2.Eta():-0.305664 lep_2.Phi():2.64697 lep_2.M():0.105658
+MET_JER_pt:64.206 MET_JER_phi:-1.06189
+ttbar_reco: 0
+------------------------
+vecJet.Pt():86.1136 vecJet.Eta():0.824585 vecJet.Phi():3.07178 vecJet.M():-16.5687
+vecJet.Pt():32.4707 vecJet.Eta():1.06494 vecJet.Phi():0.110367 vecJet.M():7.51254
+lep_1.Pt():126.403 lep_1.Eta():0.342285 lep_1.Phi():-0.114792 lep_1.M():0.105658
+lep_2.Pt():23.3028 lep_2.Eta():1.93286 lep_2.Phi():1.10815 lep_2.M():0.105658
+MET_JER_pt:85.2583 MET_JER_phi:3.05862
+ttbar_reco: 0
+------------------------
+vecJet.Pt():84.9041 vecJet.Eta():-0.153381 vecJet.Phi():-1.43848 vecJet.M():-12.6294
+vecJet.Pt():56.7599 vecJet.Eta():-1.59497 vecJet.Phi():1.05371 vecJet.M():-8.20578
+vecJet.Pt():26.4922 vecJet.Eta():-1.02148 vecJet.Phi():-0.924438 vecJet.M():4.48145
+lep_1.Pt():87.3257 lep_1.Eta():-1.26587 lep_1.Phi():3.0542 lep_1.M():0.000510995
+lep_2.Pt():18.4102 lep_2.Eta():0.78479 lep_2.Phi():-3.07275 lep_2.M():0.000510999
+MET_JER_pt:112.704 MET_JER_phi:0.793205
+ttbar_reco: 0
+------------------------
+vecJet.Pt():199.294 vecJet.Eta():0.00327492 vecJet.Phi():-2.80322 vecJet.M():27.8741
+vecJet.Pt():129.814 vecJet.Eta():0.250549 vecJet.Phi():0.559448 vecJet.M():-18.263
+lep_1.Pt():48.6078 lep_1.Eta():-0.622803 lep_1.Phi():0.946411 lep_1.M():0.000510999
+lep_2.Pt():38.7785 lep_2.Eta():-0.640381 lep_2.Phi():2.98145 lep_2.M():0.105658
+MET_JER_pt:106.725 MET_JER_phi:-0.311359
+ttbar_reco: 1
+------------------------
+vecJet.Pt():97.1008 vecJet.Eta():-2.33008 vecJet.Phi():-3.08887 vecJet.M():-10.8833
+lep_1.Pt():54.5944 lep_1.Eta():-2.26709 lep_1.Phi():1.10669 lep_1.M():0.000510999
+lep_2.Pt():37.7198 lep_2.Eta():-0.697998 lep_2.Phi():1.40601 lep_2.M():0.105658
+MET_JER_pt:84.7034 MET_JER_phi:-1.36955
+ttbar_reco: 0
+------------------------
+vecJet.Pt():110.903 vecJet.Eta():0.465637 vecJet.Phi():0.300903 vecJet.M():-12.7051
+vecJet.Pt():31.086 vecJet.Eta():-0.682373 vecJet.Phi():0.323975 vecJet.M():-8.43492
+lep_1.Pt():121.93 lep_1.Eta():-0.321228 lep_1.Phi():2.90186 lep_1.M():0.105658
+lep_2.Pt():37.8783 lep_2.Eta():0.57019 lep_2.Phi():-2.10498 lep_2.M():0.000510999
+MET_JER_pt:80.3908 MET_JER_phi:-1.0796
+ttbar_reco: 0
+------------------------
+vecJet.Pt():76.5135 vecJet.Eta():0.259033 vecJet.Phi():1.42871 vecJet.M():12.3439
+lep_1.Pt():60.0307 lep_1.Eta():-2.01611 lep_1.Phi():1.32593 lep_1.M():0.000510999
+lep_2.Pt():25.7233 lep_2.Eta():-0.471497 lep_2.Phi():-0.14621 lep_2.M():0.105658
+MET_JER_pt:61.7573 MET_JER_phi:-2.33103
+ttbar_reco: 0
+------------------------
+vecJet.Pt():42.9783 vecJet.Eta():0.661011 vecJet.Phi():-0.911865 vecJet.M():5.07531
+vecJet.Pt():44.2156 vecJet.Eta():1.33496 vecJet.Phi():-1.92529 vecJet.M():9.26772
+vecJet.Pt():30.9768 vecJet.Eta():0.25946 vecJet.Phi():1.72021 vecJet.M():-3.7508
+lep_1.Pt():66.0742 lep_1.Eta():1.21875 lep_1.Phi():-0.741577 lep_1.M():0.000510999
+lep_2.Pt():19.2677 lep_2.Eta():0.725586 lep_2.Phi():2.44043 lep_2.M():0.000510999
+MET_JER_pt:146.085 MET_JER_phi:2.06615
+ttbar_reco: 1
+------------------------
+vecJet.Pt():62.7514 vecJet.Eta():-0.797974 vecJet.Phi():2.51367 vecJet.M():-9.65768
+vecJet.Pt():20.3242 vecJet.Eta():-1.92261 vecJet.Phi():3.08252 vecJet.M():4.23618
+lep_1.Pt():70.9459 lep_1.Eta():-0.125702 lep_1.Phi():0.744629 lep_1.M():0.105658
+lep_2.Pt():30.2269 lep_2.Eta():1.8501 lep_2.Phi():-0.0494995 lep_2.M():0.000510997
+MET_JER_pt:96.1124 MET_JER_phi:-1.72529
+ttbar_reco: 0
+------------------------
+vecJet.Pt():96.7809 vecJet.Eta():-0.558716 vecJet.Phi():1.56519 vecJet.M():-13.4435
+vecJet.Pt():89.1091 vecJet.Eta():-1.90552 vecJet.Phi():-1.84912 vecJet.M():9.85311
+vecJet.Pt():66.7061 vecJet.Eta():0.0972748 vecJet.Phi():-0.889648 vecJet.M():13.4069
+vecJet.Pt():61.4608 vecJet.Eta():-1.00684 vecJet.Phi():-0.557007 vecJet.M():-7.52784
+lep_1.Pt():117.108 lep_1.Eta():0.456482 lep_1.Phi():-1.98169 lep_1.M():0.105658
+lep_2.Pt():22.5021 lep_2.Eta():-0.729248 lep_2.Phi():0.374268 lep_2.M():0.105658
+MET_JER_pt:119.002 MET_JER_phi:1.90044
+ttbar_reco: 1
+------------------------
+vecJet.Pt():53.5546 vecJet.Eta():1.4563 vecJet.Phi():-3.1123 vecJet.M():8.97242
+vecJet.Pt():46.7649 vecJet.Eta():1.198 vecJet.Phi():-2.48877 vecJet.M():-8.05246
+vecJet.Pt():22.1153 vecJet.Eta():0.228149 vecJet.Phi():-2.06152 vecJet.M():4.63963
+vecJet.Pt():20.0997 vecJet.Eta():-0.0679779 vecJet.Phi():-0.90332 vecJet.M():-2.78663
+lep_1.Pt():114.512 lep_1.Eta():-0.409241 lep_1.Phi():-0.490845 lep_1.M():0.105658
+lep_2.Pt():31.9391 lep_2.Eta():0.706177 lep_2.Phi():0.860596 lep_2.M():0.000510999
+MET_JER_pt:87.3974 MET_JER_phi:2.09943
+ttbar_reco: 0
+------------------------
+vecJet.Pt():200.846 vecJet.Eta():-1.61279 vecJet.Phi():-1.99292 vecJet.M():-21.4749
+vecJet.Pt():79.2478 vecJet.Eta():1.32422 vecJet.Phi():-3.00684 vecJet.M():14.9926
+vecJet.Pt():29.9009 vecJet.Eta():-0.428589 vecJet.Phi():2.79883 vecJet.M():4.92407
+lep_1.Pt():158.978 lep_1.Eta():-1.09839 lep_1.Phi():0.585327 lep_1.M():0.105658
+lep_2.Pt():20.8889 lep_2.Eta():-1.34106 lep_2.Phi():-0.91394 lep_2.M():0.105658
+MET_JER_pt:118.688 MET_JER_phi:1.3038
+ttbar_reco: 0
+------------------------
+vecJet.Pt():120.999 vecJet.Eta():-0.939819 vecJet.Phi():0.0866241 vecJet.M():-29.6532
+vecJet.Pt():54.7993 vecJet.Eta():1.0188 vecJet.Phi():-1.69336 vecJet.M():8.87936
+vecJet.Pt():41.4499 vecJet.Eta():-0.895996 vecJet.Phi():-2.77246 vecJet.M():-8.49905
+vecJet.Pt():24.6131 vecJet.Eta():1.56885 vecJet.Phi():-1.30176 vecJet.M():4.99661
+lep_1.Pt():80.2958 lep_1.Eta():-0.0849915 lep_1.Phi():1.29688 lep_1.M():0.105658
+lep_2.Pt():51.7643 lep_2.Eta():-1.36719 lep_2.Phi():2.24316 lep_2.M():0.000510997
+MET_JER_pt:66.7462 MET_JER_phi:-2.67027
+ttbar_reco: 0
+------------------------
+vecJet.Pt():61.225 vecJet.Eta():0.162872 vecJet.Phi():-0.32428 vecJet.M():7.80746
+vecJet.Pt():52.3814 vecJet.Eta():0.540405 vecJet.Phi():0.221527 vecJet.M():7.0754
+vecJet.Pt():51.5472 vecJet.Eta():-1.16553 vecJet.Phi():3.01367 vecJet.M():-12.4237
+vecJet.Pt():39.1198 vecJet.Eta():-0.564209 vecJet.Phi():-2.79688 vecJet.M():9.4026
+vecJet.Pt():23.4818 vecJet.Eta():-1.80859 vecJet.Phi():2.19385 vecJet.M():-6.19304
+vecJet.Pt():22.7783 vecJet.Eta():-1.12891 vecJet.Phi():-2.50537 vecJet.M():4.70795
+lep_1.Pt():84.0555 lep_1.Eta():-0.218658 lep_1.Phi():-1.13916 lep_1.M():0.000510998
+lep_2.Pt():30.5039 lep_2.Eta():0.960083 lep_2.Phi():-2.75488 lep_2.M():0.000510999
+MET_JER_pt:102.303 MET_JER_phi:0.995789
+ttbar_reco: 0
+------------------------
+vecJet.Pt():179.676 vecJet.Eta():-0.440063 vecJet.Phi():2.83203 vecJet.M():-13.4913
+vecJet.Pt():143.632 vecJet.Eta():-0.179413 vecJet.Phi():-0.13327 vecJet.M():-13.5839
+vecJet.Pt():77.8058 vecJet.Eta():-1.46045 vecJet.Phi():2.83057 vecJet.M():-12.1767
+vecJet.Pt():20.7741 vecJet.Eta():-2.16357 vecJet.Phi():-1.9563 vecJet.M():-4.02072
+lep_1.Pt():66.6273 lep_1.Eta():0.0640717 lep_1.Phi():2.99805 lep_1.M():0.105658
+lep_2.Pt():28.4272 lep_2.Eta():0.889526 lep_2.Phi():-0.859741 lep_2.M():0.000510999
+MET_JER_pt:255.781 MET_JER_phi:-0.0496259
+ttbar_reco: 1
+------------------------
+vecJet.Pt():77.667 vecJet.Eta():-1.01733 vecJet.Phi():0.513306 vecJet.M():-18.1422
+vecJet.Pt():24.2087 vecJet.Eta():-1.53809 vecJet.Phi():-1.41016 vecJet.M():-4.16734
+lep_1.Pt():50.5839 lep_1.Eta():-0.190277 lep_1.Phi():-0.146179 lep_1.M():0.000510999
+lep_2.Pt():37.3688 lep_2.Eta():-0.604126 lep_2.Phi():1.71875 lep_2.M():0.000510999
+MET_JER_pt:90.2159 MET_JER_phi:-2.75037
+ttbar_reco: 1
+------------------------
+vecJet.Pt():89.6073 vecJet.Eta():0.00245714 vecJet.Phi():-0.290894 vecJet.M():-19.0142
+lep_1.Pt():44.0837 lep_1.Eta():1.05396 lep_1.Phi():0.351196 lep_1.M():0.105658
+lep_2.Pt():25.2668 lep_2.Eta():-0.500977 lep_2.Phi():-0.807983 lep_2.M():0.000510999
+MET_JER_pt:114.997 MET_JER_phi:3.02923
+ttbar_reco: 0
+------------------------
+vecJet.Pt():70.9552 vecJet.Eta():1.28906 vecJet.Phi():1.34204 vecJet.M():-7.92703
+vecJet.Pt():59.3577 vecJet.Eta():-1.08569 vecJet.Phi():-2.61816 vecJet.M():9.42324
+vecJet.Pt():49.5955 vecJet.Eta():1.50708 vecJet.Phi():-2.14111 vecJet.M():-7.49309
+vecJet.Pt():30.8586 vecJet.Eta():-1.67383 vecJet.Phi():-2.58691 vecJet.M():4.89952
+lep_1.Pt():60.0061 lep_1.Eta():-0.393311 lep_1.Phi():-2.04688 lep_1.M():0.000510999
+lep_2.Pt():32.8693 lep_2.Eta():-0.53479 lep_2.Phi():-0.257141 lep_2.M():0.000510999
+MET_JER_pt:123.121 MET_JER_phi:0.966837
+ttbar_reco: 1
+------------------------
+vecJet.Pt():124.516 vecJet.Eta():-1.01416 vecJet.Phi():-0.948486 vecJet.M():-11.0106
+vecJet.Pt():62.9349 vecJet.Eta():1.46045 vecJet.Phi():1.64844 vecJet.M():-7.24652
+vecJet.Pt():39.0693 vecJet.Eta():0.479248 vecJet.Phi():-1.10059 vecJet.M():9.09184
+lep_1.Pt():133.668 lep_1.Eta():-0.896729 lep_1.Phi():-1.86987 lep_1.M():0.000510999
+lep_2.Pt():20.4053 lep_2.Eta():-0.440857 lep_2.Phi():1.3125 lep_2.M():0.105658
+MET_JER_pt:239.71 MET_JER_phi:1.82849
+ttbar_reco: 1
+------------------------
+vecJet.Pt():64.3455 vecJet.Eta():-1.30005 vecJet.Phi():-2.98193 vecJet.M():-11.6242
+vecJet.Pt():37.1319 vecJet.Eta():-0.268555 vecJet.Phi():-0.275818 vecJet.M():-6.4206
+lep_1.Pt():63.1194 lep_1.Eta():-2.23242 lep_1.Phi():-1.84277 lep_1.M():0.000510999
+lep_2.Pt():36.2708 lep_2.Eta():-1.49976 lep_2.Phi():2.43604 lep_2.M():0.105658
+MET_JER_pt:121.465 MET_JER_phi:0.519105
+ttbar_reco: 0
+------------------------
+vecJet.Pt():215.54 vecJet.Eta():0.11261 vecJet.Phi():0.540649 vecJet.M():-23.5943
+vecJet.Pt():64.7145 vecJet.Eta():-1.04004 vecJet.Phi():-1.96143 vecJet.M():8.19131
+lep_1.Pt():89.3472 lep_1.Eta():-0.298889 lep_1.Phi():1.11133 lep_1.M():0.000510997
+lep_2.Pt():35.5208 lep_2.Eta():0.825684 lep_2.Phi():3 lep_2.M():0.000510999
+MET_JER_pt:69.8906 MET_JER_phi:-0.381509
+ttbar_reco: 1
+------------------------
+vecJet.Pt():112.908 vecJet.Eta():-0.398376 vecJet.Phi():-1.16968 vecJet.M():-11.8924
+vecJet.Pt():105.383 vecJet.Eta():1.31494 vecJet.Phi():2.00732 vecJet.M():-15.092
+lep_1.Pt():71.5504 lep_1.Eta():0.630005 lep_1.Phi():2.86182 lep_1.M():0.105658
+lep_2.Pt():35.4788 lep_2.Eta():0.382263 lep_2.Phi():-0.95105 lep_2.M():0.105658
+MET_JER_pt:77.7547 MET_JER_phi:0.722972
+ttbar_reco: 1
+------------------------
+vecJet.Pt():65.0259 vecJet.Eta():0.185638 vecJet.Phi():-1.5979 vecJet.M():-9.29162
+lep_1.Pt():84.0107 lep_1.Eta():2.39404 lep_1.Phi():0.617676 lep_1.M():0.000510999
+lep_2.Pt():34.2771 lep_2.Eta():1.16724 lep_2.Phi():-0.142334 lep_2.M():0.105658
+MET_JER_pt:63.7472 MET_JER_phi:3.05527
+ttbar_reco: 0
+------------------------
+vecJet.Pt():39.3543 vecJet.Eta():-0.446289 vecJet.Phi():0.708496 vecJet.M():-7.77015
+vecJet.Pt():22.8097 vecJet.Eta():-0.286499 vecJet.Phi():0.203522 vecJet.M():6.27947
+lep_1.Pt():71.3357 lep_1.Eta():2.01074 lep_1.Phi():-0.972656 lep_1.M():0.000511013
+lep_2.Pt():20.4896 lep_2.Eta():1.33008 lep_2.Phi():2.59033 lep_2.M():0.000510999
+MET_JER_pt:131.879 MET_JER_phi:2.83133
+ttbar_reco: 1
+------------------------
+vecJet.Pt():61.0974 vecJet.Eta():0.128357 vecJet.Phi():0.709839 vecJet.M():-6.43604
+vecJet.Pt():41.2472 vecJet.Eta():0.951904 vecJet.Phi():2.4502 vecJet.M():7.71271
+lep_1.Pt():72.8749 lep_1.Eta():0.585327 lep_1.Phi():-2.25537 lep_1.M():0.105658
+lep_2.Pt():40.9985 lep_2.Eta():-0.17099 lep_2.Phi():-0.900146 lep_2.M():0.105658
+MET_JER_pt:83.5623 MET_JER_phi:0.467596
+ttbar_reco: 1
+------------------------
+vecJet.Pt():192.433 vecJet.Eta():-2.33887 vecJet.Phi():-2.24121 vecJet.M():-28.0632
+vecJet.Pt():123.723 vecJet.Eta():0.970703 vecJet.Phi():0.502563 vecJet.M():-11.6678
+vecJet.Pt():113.055 vecJet.Eta():-0.11499 vecJet.Phi():0.888672 vecJet.M():12.6745
+vecJet.Pt():41.1623 vecJet.Eta():1.94873 vecJet.Phi():1.52148 vecJet.M():7.31475
+lep_1.Pt():43.7191 lep_1.Eta():-1.74097 lep_1.Phi():2.96387 lep_1.M():0.000511002
+lep_2.Pt():28.3252 lep_2.Eta():-0.15094 lep_2.Phi():1.57886 lep_2.M():0.000510999
+MET_JER_pt:130.724 MET_JER_phi:-1.70833
+ttbar_reco: 1
+------------------------
+vecJet.Pt():45.8149 vecJet.Eta():-1.05518 vecJet.Phi():1.45435 vecJet.M():-9.61681
+lep_1.Pt():55.8232 lep_1.Eta():-0.86145 lep_1.Phi():3.10693 lep_1.M():0.105658
+lep_2.Pt():44.6209 lep_2.Eta():-0.0458527 lep_2.Phi():-1.8252 lep_2.M():0.105658
+MET_JER_pt:64.7259 MET_JER_phi:-0.124848
+ttbar_reco: 0
+------------------------
+vecJet.Pt():74.5985 vecJet.Eta():-1.76782 vecJet.Phi():0.76416 vecJet.M():-11.1316
+vecJet.Pt():54.0166 vecJet.Eta():0.919434 vecJet.Phi():-1.75757 vecJet.M():-9.30564
+lep_1.Pt():69.5248 lep_1.Eta():-1.56592 lep_1.Phi():-2.92725 lep_1.M():0.105658
+lep_2.Pt():20.4556 lep_2.Eta():0.283142 lep_2.Phi():-2.59521 lep_2.M():0.105658
+MET_JER_pt:79.539 MET_JER_phi:0.476885
+ttbar_reco: 1
+------------------------
+vecJet.Pt():46.7702 vecJet.Eta():-1.10962 vecJet.Phi():0.634399 vecJet.M():7.4095
+lep_1.Pt():93.8897 lep_1.Eta():0.648926 lep_1.Phi():2.5542 lep_1.M():0.000510999
+lep_2.Pt():30.998 lep_2.Eta():1.45361 lep_2.Phi():0.962524 lep_2.M():0.105658
+MET_JER_pt:69.9359 MET_JER_phi:-1.22588
+ttbar_reco: 0
+------------------------
+vecJet.Pt():220.202 vecJet.Eta():-0.438599 vecJet.Phi():1.05957 vecJet.M():20.4415
+vecJet.Pt():202.749 vecJet.Eta():1.71582 vecJet.Phi():-2.51367 vecJet.M():-17.9408
+vecJet.Pt():78.3176 vecJet.Eta():0.647339 vecJet.Phi():-0.585938 vecJet.M():-9.41765
+vecJet.Pt():46.363 vecJet.Eta():1.54126 vecJet.Phi():0.191345 vecJet.M():10.5162
+vecJet.Pt():21.5428 vecJet.Eta():1.50732 vecJet.Phi():-0.291443 vecJet.M():3.58321
+lep_1.Pt():42.7561 lep_1.Eta():0.419739 lep_1.Phi():1.24146 lep_1.M():0.105658
+lep_2.Pt():40.478 lep_2.Eta():1.93042 lep_2.Phi():-3.00488 lep_2.M():0.105658
+MET_JER_pt:90.0994 MET_JER_phi:-2.38384
+ttbar_reco: 1
+------------------------
+lep_1.Pt():81.0855 lep_1.Eta():-0.213104 lep_1.Phi():1.41895 lep_1.M():0.000510999
+lep_2.Pt():16.8814 lep_2.Eta():-2.271 lep_2.Phi():0.223785 lep_2.M():0.105658
+MET_JER_pt:90.9502 MET_JER_phi:-1.50085
+ttbar_reco: 0
+------------------------
+vecJet.Pt():167.201 vecJet.Eta():-1.54102 vecJet.Phi():1.92065 vecJet.M():-23.091
+vecJet.Pt():44.7376 vecJet.Eta():-1.11841 vecJet.Phi():-0.692383 vecJet.M():8.41829
+lep_1.Pt():41.6675 lep_1.Eta():-1.42432 lep_1.Phi():2.65723 lep_1.M():0.000510999
+lep_2.Pt():15.1499 lep_2.Eta():1.12769 lep_2.Phi():0.928467 lep_2.M():0.105658
+MET_JER_pt:121.198 MET_JER_phi:-1.47653
+ttbar_reco: 0
+------------------------
+vecJet.Pt():44.8529 vecJet.Eta():-0.0134163 vecJet.Phi():-1.77686 vecJet.M():-6.47068
+lep_1.Pt():106.725 lep_1.Eta():-0.264404 lep_1.Phi():1.11548 lep_1.M():0.105658
+lep_2.Pt():33.5904 lep_2.Eta():0.839722 lep_2.Phi():2.68262 lep_2.M():0.105658
+MET_JER_pt:92.1512 MET_JER_phi:0.0192664
+ttbar_reco: 0
+------------------------
+vecJet.Pt():176.272 vecJet.Eta():0.206543 vecJet.Phi():0.405945 vecJet.M():-15.2892
+lep_1.Pt():61.2521 lep_1.Eta():0.677856 lep_1.Phi():-0.823975 lep_1.M():0.105658
+lep_2.Pt():24.5012 lep_2.Eta():0.107574 lep_2.Phi():-2.84766 lep_2.M():0.105658
+MET_JER_pt:178.991 MET_JER_phi:3.05513
+ttbar_reco: 0
+------------------------
+vecJet.Pt():100.338 vecJet.Eta():-0.168701 vecJet.Phi():0.926514 vecJet.M():-11.0356
+vecJet.Pt():67.7324 vecJet.Eta():-0.943604 vecJet.Phi():3.08301 vecJet.M():-9.50408
+lep_1.Pt():55.5704 lep_1.Eta():-1.27075 lep_1.Phi():-2.29443 lep_1.M():0.105658
+lep_2.Pt():38.6855 lep_2.Eta():-0.212463 lep_2.Phi():2.36279 lep_2.M():0.000510999
+MET_JER_pt:78.1054 MET_JER_phi:-0.61076
+ttbar_reco: 0
+------------------------
+vecJet.Pt():191.243 vecJet.Eta():-0.0530777 vecJet.Phi():-1.45288 vecJet.M():22.36
+vecJet.Pt():104.476 vecJet.Eta():0.540039 vecJet.Phi():-3.12842 vecJet.M():-9.92997
+vecJet.Pt():62.7443 vecJet.Eta():0.751343 vecJet.Phi():0.352539 vecJet.M():-11.9038
+lep_1.Pt():94.4673 lep_1.Eta():-0.369873 lep_1.Phi():0.949097 lep_1.M():0.000510999
+lep_2.Pt():25.6624 lep_2.Eta():-0.719116 lep_2.Phi():-1.95288 lep_2.M():0.000510999
+MET_JER_pt:123.569 MET_JER_phi:2.37937
+ttbar_reco: 1
+------------------------
+lep_1.Pt():52.62 lep_1.Eta():-0.442017 lep_1.Phi():-1.83789 lep_1.M():0.105658
+lep_2.Pt():42.6099 lep_2.Eta():-1.95508 lep_2.Phi():-3.10107 lep_2.M():0.000511002
+MET_JER_pt:74.7931 MET_JER_phi:1.04476
+ttbar_reco: 0
+------------------------
+vecJet.Pt():62.2788 vecJet.Eta():-0.643066 vecJet.Phi():2.73096 vecJet.M():-9.57598
+vecJet.Pt():36.1818 vecJet.Eta():-0.328308 vecJet.Phi():-3.13477 vecJet.M():-7.27378
+lep_1.Pt():70.0425 lep_1.Eta():-0.811646 lep_1.Phi():-1.48291 lep_1.M():0.105658
+lep_2.Pt():29.8293 lep_2.Eta():0.646729 lep_2.Phi():-1.24146 lep_2.M():0.105658
+MET_JER_pt:106.596 MET_JER_phi:0.610743
+ttbar_reco: 0
+------------------------
+vecJet.Pt():95.4065 vecJet.Eta():0.38562 vecJet.Phi():1.25024 vecJet.M():-11.7958
+vecJet.Pt():29.2467 vecJet.Eta():1.17993 vecJet.Phi():-1.20215 vecJet.M():5.54073
+vecJet.Pt():20.6671 vecJet.Eta():1.66699 vecJet.Phi():-0.338257 vecJet.M():-3.42875
+lep_1.Pt():70.2576 lep_1.Eta():0.44043 lep_1.Phi():-1.91846 lep_1.M():0.000510999
+lep_2.Pt():37.8593 lep_2.Eta():-0.50061 lep_2.Phi():0.11496 lep_2.M():0.000510999
+MET_JER_pt:88.6246 MET_JER_phi:-3.07338
+ttbar_reco: 1
+------------------------
+vecJet.Pt():90.3117 vecJet.Eta():-0.660767 vecJet.Phi():-0.00228786 vecJet.M():-16.577
+vecJet.Pt():49.0617 vecJet.Eta():1.44409 vecJet.Phi():-2.31885 vecJet.M():-6.46495
+lep_1.Pt():67.3679 lep_1.Eta():0.369751 lep_1.Phi():-3.12744 lep_1.M():0.105658
+lep_2.Pt():24.395 lep_2.Eta():-1.50415 lep_2.Phi():-1.9375 lep_2.M():0.105658
+MET_JER_pt:74.8277 MET_JER_phi:0.894858
+ttbar_reco: 1
+------------------------
+vecJet.Pt():61.3273 vecJet.Eta():-1.04907 vecJet.Phi():2.32666 vecJet.M():11.5719
+vecJet.Pt():21.7441 vecJet.Eta():0.0613785 vecJet.Phi():0.768555 vecJet.M():-4.4105
+lep_1.Pt():124.773 lep_1.Eta():-1.09961 lep_1.Phi():-0.669556 lep_1.M():0.000510999
+lep_2.Pt():17.4083 lep_2.Eta():-1.07373 lep_2.Phi():1.67798 lep_2.M():0.000510999
+MET_JER_pt:67.5518 MET_JER_phi:-2.70328
+ttbar_reco: 0
+------------------------
+vecJet.Pt():181.402 vecJet.Eta():-2.20459 vecJet.Phi():0.993042 vecJet.M():33.7485
+vecJet.Pt():28.6283 vecJet.Eta():1.2395 vecJet.Phi():-1.99976 vecJet.M():5.90152
+vecJet.Pt():20.5121 vecJet.Eta():2.31689 vecJet.Phi():-0.0466766 vecJet.M():2.88791
+lep_1.Pt():144.865 lep_1.Eta():-0.994751 lep_1.Phi():-2.86816 lep_1.M():0.000510999
+lep_2.Pt():35.4961 lep_2.Eta():0.0191994 lep_2.Phi():-2.63135 lep_2.M():0.105658
+MET_JER_pt:92.4215 MET_JER_phi:-1.55558
+ttbar_reco: 0
+------------------------
+lep_1.Pt():57.7067 lep_1.Eta():1.77734 lep_1.Phi():-0.452209 lep_1.M():0.000510999
+lep_2.Pt():25.9508 lep_2.Eta():-0.0134888 lep_2.Phi():0.48938 lep_2.M():0.000510999
+MET_JER_pt:111.875 MET_JER_phi:2.75671
+ttbar_reco: 0
+------------------------
+vecJet.Pt():98.9168 vecJet.Eta():-0.244385 vecJet.Phi():-2.21289 vecJet.M():-14.679
+vecJet.Pt():65.416 vecJet.Eta():-0.5979 vecJet.Phi():-2.54883 vecJet.M():8.78213
+vecJet.Pt():43.1239 vecJet.Eta():1.93481 vecJet.Phi():-1.88867 vecJet.M():8.32933
+vecJet.Pt():40.0005 vecJet.Eta():0.516113 vecJet.Phi():1.6228 vecJet.M():-6.03052
+lep_1.Pt():62.7661 lep_1.Eta():-0.125153 lep_1.Phi():3.05225 lep_1.M():0.000510999
+lep_2.Pt():19.8077 lep_2.Eta():-2.04297 lep_2.Phi():-1.64111 lep_2.M():0.000510998
+MET_JER_pt:108.746 MET_JER_phi:0.545056
+ttbar_reco: 0
+------------------------
+vecJet.Pt():144.784 vecJet.Eta():0.885986 vecJet.Phi():2.28369 vecJet.M():-16.8209
+vecJet.Pt():105.632 vecJet.Eta():-0.892578 vecJet.Phi():-0.434082 vecJet.M():-10.8896
+vecJet.Pt():23.6284 vecJet.Eta():0.106216 vecJet.Phi():2.77344 vecJet.M():-3.15405
+lep_1.Pt():142.458 lep_1.Eta():0.0569305 lep_1.Phi():-0.958008 lep_1.M():0.000511002
+lep_2.Pt():29.1402 lep_2.Eta():0.383423 lep_2.Phi():-2.90576 lep_2.M():0.105658
+MET_JER_pt:67.6531 MET_JER_phi:1.81989
+ttbar_reco: 1
+------------------------
+vecJet.Pt():126.932 vecJet.Eta():-0.148499 vecJet.Phi():1.38672 vecJet.M():-16.7329
+vecJet.Pt():108.903 vecJet.Eta():-0.00972748 vecJet.Phi():-0.382446 vecJet.M():19.1176
+vecJet.Pt():96.7727 vecJet.Eta():-0.905884 vecJet.Phi():-2.18506 vecJet.M():-15.2345
+lep_1.Pt():67.885 lep_1.Eta():-1.00635 lep_1.Phi():2.81006 lep_1.M():0.000510999
+lep_2.Pt():31.3838 lep_2.Eta():-0.704224 lep_2.Phi():0.975586 lep_2.M():0.105658
+MET_JER_pt:87.3601 MET_JER_phi:-1.72639
+ttbar_reco: 0
+------------------------
+vecJet.Pt():72.1384 vecJet.Eta():-0.32782 vecJet.Phi():1.21558 vecJet.M():14.2028
+vecJet.Pt():62.8241 vecJet.Eta():-2.39697 vecJet.Phi():1.68774 vecJet.M():-6.71204
+lep_1.Pt():78.2339 lep_1.Eta():-2.3208 lep_1.Phi():-2.5459 lep_1.M():0.105658
+lep_2.Pt():53.9981 lep_2.Eta():-1.21631 lep_2.Phi():-1.10767 lep_2.M():0.105658
+MET_JER_pt:54.2585 MET_JER_phi:-0.211479
+ttbar_reco: 1
+------------------------
+vecJet.Pt():203.1 vecJet.Eta():1.44067 vecJet.Phi():-3.0957 vecJet.M():-22.5702
+vecJet.Pt():107.624 vecJet.Eta():-2.26367 vecJet.Phi():0.300049 vecJet.M():16.6368
+vecJet.Pt():50.3821 vecJet.Eta():-1.67847 vecJet.Phi():0.025074 vecJet.M():10.6314
+vecJet.Pt():44.2975 vecJet.Eta():0.931396 vecJet.Phi():-1.40479 vecJet.M():7.6276
+vecJet.Pt():26.7126 vecJet.Eta():0.386841 vecJet.Phi():-0.715088 vecJet.M():5.58863
+lep_1.Pt():60.6132 lep_1.Eta():-1.23828 lep_1.Phi():-2.58398 lep_1.M():0.000510997
+lep_2.Pt():33.3466 lep_2.Eta():0.47229 lep_2.Phi():2.55029 lep_2.M():0.000510999
+MET_JER_pt:107.623 MET_JER_phi:0.541895
+ttbar_reco: 0
+------------------------
+vecJet.Pt():105.024 vecJet.Eta():1.33105 vecJet.Phi():-1.52686 vecJet.M():-15.7932
+vecJet.Pt():44.9221 vecJet.Eta():0.914429 vecJet.Phi():1.92529 vecJet.M():10.8986
+vecJet.Pt():41.8874 vecJet.Eta():-0.227295 vecJet.Phi():2.70117 vecJet.M():5.65621
+vecJet.Pt():20.5731 vecJet.Eta():0.141693 vecJet.Phi():1.42163 vecJet.M():4.56418
+lep_1.Pt():55.7091 lep_1.Eta():0.277893 lep_1.Phi():0.716919 lep_1.M():0.105658
+lep_2.Pt():32.6348 lep_2.Eta():0.337646 lep_2.Phi():2.67188 lep_2.M():0.000510999
+MET_JER_pt:117.803 MET_JER_phi:-0.379978
+ttbar_reco: 1
+------------------------
+vecJet.Pt():51.8776 vecJet.Eta():-0.648071 vecJet.Phi():1.66675 vecJet.M():-10.2233
+lep_1.Pt():119.618 lep_1.Eta():-0.604492 lep_1.Phi():-2.80127 lep_1.M():0.000510995
+lep_2.Pt():25.3853 lep_2.Eta():-0.0539474 lep_2.Phi():-1.41919 lep_2.M():0.000510999
+MET_JER_pt:125.33 MET_JER_phi:-0.245668
+ttbar_reco: 0
+------------------------
+vecJet.Pt():76.6011 vecJet.Eta():0.70105 vecJet.Phi():1.21704 vecJet.M():-11.8732
+vecJet.Pt():62.1246 vecJet.Eta():1.72852 vecJet.Phi():-3.0791 vecJet.M():-13.5367
+vecJet.Pt():24.2818 vecJet.Eta():1.93213 vecJet.Phi():-0.91748 vecJet.M():-5.29298
+lep_1.Pt():50.6874 lep_1.Eta():1.23462 lep_1.Phi():-1.96265 lep_1.M():0.105658
+lep_2.Pt():31.882 lep_2.Eta():-0.695557 lep_2.Phi():-0.871094 lep_2.M():0.105658
+MET_JER_pt:74.194 MET_JER_phi:0.905187
+ttbar_reco: 1
+------------------------
+vecJet.Pt():341.777 vecJet.Eta():-1.89014 vecJet.Phi():2.01367 vecJet.M():-28.8507
+vecJet.Pt():264.476 vecJet.Eta():-0.633423 vecJet.Phi():-1.24023 vecJet.M():-21.8262
+lep_1.Pt():71.8814 lep_1.Eta():-1.12915 lep_1.Phi():-0.393372 lep_1.M():0.000510999
+lep_2.Pt():39.1299 lep_2.Eta():-1.0564 lep_2.Phi():1.80249 lep_2.M():0.105658
+MET_JER_pt:82.8382 MET_JER_phi:-1.25906
+ttbar_reco: 1
+------------------------
+vecJet.Pt():85.5416 vecJet.Eta():-0.588013 vecJet.Phi():0.509888 vecJet.M():-10.2653
+vecJet.Pt():39.4398 vecJet.Eta():-1.94629 vecJet.Phi():-2.82471 vecJet.M():8.30394
+lep_1.Pt():72.3353 lep_1.Eta():1.23877 lep_1.Phi():-2.93018 lep_1.M():0.105658
+lep_2.Pt():34.628 lep_2.Eta():-0.399597 lep_2.Phi():2.22217 lep_2.M():0.000510999
+MET_JER_pt:78.3689 MET_JER_phi:-0.763272
+ttbar_reco: 0
+------------------------
+vecJet.Pt():93.9999 vecJet.Eta():0.743164 vecJet.Phi():-1.46094 vecJet.M():-9.95669
+lep_1.Pt():114.438 lep_1.Eta():-0.00464153 lep_1.Phi():-1.97363 lep_1.M():0.105658
+lep_2.Pt():31.8769 lep_2.Eta():-0.175446 lep_2.Phi():2.21289 lep_2.M():0.000510999
+MET_JER_pt:125.98 MET_JER_phi:1.14448
+ttbar_reco: 0
+------------------------
+vecJet.Pt():73.7737 vecJet.Eta():-0.184692 vecJet.Phi():1.82666 vecJet.M():-12.7183
+vecJet.Pt():54.0073 vecJet.Eta():-1.85181 vecJet.Phi():-1.05835 vecJet.M():-5.63477
+vecJet.Pt():30.4785 vecJet.Eta():0.383789 vecJet.Phi():-0.253906 vecJet.M():5.53691
+lep_1.Pt():45.5489 lep_1.Eta():-1.06836 lep_1.Phi():-2.91992 lep_1.M():0.105658
+lep_2.Pt():38.0995 lep_2.Eta():-0.434021 lep_2.Phi():-1.28198 lep_2.M():0.105658
+MET_JER_pt:76.638 MET_JER_phi:1.99104
+ttbar_reco: 1
+------------------------
+vecJet.Pt():73.9299 vecJet.Eta():-0.588013 vecJet.Phi():1.78076 vecJet.M():-8.86937
+vecJet.Pt():38.0094 vecJet.Eta():1.07324 vecJet.Phi():1.38062 vecJet.M():5.12751
+lep_1.Pt():83.9687 lep_1.Eta():-0.0881042 lep_1.Phi():-3.13916 lep_1.M():0.000510998
+lep_2.Pt():37.6458 lep_2.Eta():0.886963 lep_2.Phi():-1.13696 lep_2.M():0.000510999
+MET_JER_pt:71.0873 MET_JER_phi:-0.91766
+ttbar_reco: 1
+------------------------
+vecJet.Pt():65.4855 vecJet.Eta():-0.282532 vecJet.Phi():1.84521 vecJet.M():-9.16484
+lep_1.Pt():76.7542 lep_1.Eta():0.311768 lep_1.Phi():-2.68457 lep_1.M():0.105658
+lep_2.Pt():20.7692 lep_2.Eta():-1.0481 lep_2.Phi():1.30103 lep_2.M():0.000510999
+MET_JER_pt:121.361 MET_JER_phi:0.0600358
+ttbar_reco: 0
+------------------------
+vecJet.Pt():135.465 vecJet.Eta():-1.17554 vecJet.Phi():-1.83472 vecJet.M():-13.281
+vecJet.Pt():63.3843 vecJet.Eta():0.205322 vecJet.Phi():0.297791 vecJet.M():-10.0624
+vecJet.Pt():28.7343 vecJet.Eta():-1.90747 vecJet.Phi():1.6272 vecJet.M():-5.44047
+lep_1.Pt():79.3888 lep_1.Eta():-0.744751 lep_1.Phi():0.979736 lep_1.M():0.000510997
+lep_2.Pt():22.2106 lep_2.Eta():-1.91479 lep_2.Phi():-0.704224 lep_2.M():0.105658
+MET_JER_pt:65.056 MET_JER_phi:2.56598
+ttbar_reco: 1
+------------------------
+vecJet.Pt():138.661 vecJet.Eta():-0.173798 vecJet.Phi():2.48291 vecJet.M():-11.6526
+vecJet.Pt():107.843 vecJet.Eta():-0.458496 vecJet.Phi():-0.553345 vecJet.M():11.1038
+vecJet.Pt():62.6275 vecJet.Eta():2.30664 vecJet.Phi():1.56519 vecJet.M():12.0935
+vecJet.Pt():40.6433 vecJet.Eta():-0.838013 vecJet.Phi():0.700317 vecJet.M():-7.04815
+lep_1.Pt():105.994 lep_1.Eta():0.163849 lep_1.Phi():-0.613037 lep_1.M():0.105658
+lep_2.Pt():21.1122 lep_2.Eta():-0.579346 lep_2.Phi():-2.88037 lep_2.M():0.105658
+MET_JER_pt:111.861 MET_JER_phi:-2.4501
+ttbar_reco: 1
+------------------------
+vecJet.Pt():65.1251 vecJet.Eta():-0.339417 vecJet.Phi():-2.1665 vecJet.M():-8.44591
+vecJet.Pt():29.1956 vecJet.Eta():1.44727 vecJet.Phi():1.07495 vecJet.M():-5.71353
+vecJet.Pt():25.7074 vecJet.Eta():-0.513428 vecJet.Phi():0.727783 vecJet.M():5.30244
+lep_1.Pt():84.6736 lep_1.Eta():-0.724731 lep_1.Phi():2.64062 lep_1.M():0.000510999
+lep_2.Pt():33.0118 lep_2.Eta():-0.0889435 lep_2.Phi():-1.6543 lep_2.M():0.000510999
+MET_JER_pt:67.8005 MET_JER_phi:0.377742
+ttbar_reco: 1
+------------------------
+vecJet.Pt():96.764 vecJet.Eta():1.06567 vecJet.Phi():-1.03906 vecJet.M():-8.17052
+vecJet.Pt():65.9118 vecJet.Eta():-1.49707 vecJet.Phi():2.40479 vecJet.M():-7.59617
+vecJet.Pt():20.8109 vecJet.Eta():-1.1521 vecJet.Phi():2.75195 vecJet.M():5.21885
+lep_1.Pt():64.1742 lep_1.Eta():-0.0421371 lep_1.Phi():-1.1814 lep_1.M():0.000510999
+lep_2.Pt():38.1212 lep_2.Eta():-0.996948 lep_2.Phi():1.16602 lep_2.M():0.000510999
+MET_JER_pt:53.5766 MET_JER_phi:2.59773
+ttbar_reco: 1
+------------------------
+vecJet.Pt():56.4284 vecJet.Eta():-0.789673 vecJet.Phi():-2.40967 vecJet.M():-10.2208
+vecJet.Pt():46.2022 vecJet.Eta():0.380676 vecJet.Phi():-2.21777 vecJet.M():-8.45144
+vecJet.Pt():30.7734 vecJet.Eta():-1.11084 vecJet.Phi():-3.1333 vecJet.M():5.07208
+vecJet.Pt():23.8478 vecJet.Eta():-1.98926 vecJet.Phi():1.91431 vecJet.M():3.92739
+lep_1.Pt():59.0166 lep_1.Eta():-0.608154 lep_1.Phi():0.888794 lep_1.M():0.105658
+lep_2.Pt():37.5863 lep_2.Eta():0.816772 lep_2.Phi():1.07837 lep_2.M():0.000510999
+MET_JER_pt:77.0877 MET_JER_phi:-0.579706
+ttbar_reco: 1
+------------------------
+vecJet.Pt():86.3042 vecJet.Eta():-2.33691 vecJet.Phi():2.87158 vecJet.M():-10.5774
+vecJet.Pt():32.2173 vecJet.Eta():1.49805 vecJet.Phi():-1.25488 vecJet.M():7.14352
+lep_1.Pt():92.7755 lep_1.Eta():0.276306 lep_1.Phi():-0.221497 lep_1.M():0.105658
+lep_2.Pt():46.8879 lep_2.Eta():-0.629028 lep_2.Phi():1.24902 lep_2.M():0.105658
+MET_JER_pt:64.0324 MET_JER_phi:-2.76647
+ttbar_reco: 0
+------------------------
+vecJet.Pt():56.9269 vecJet.Eta():0.355469 vecJet.Phi():0.411926 vecJet.M():-7.58093
+lep_1.Pt():80.693 lep_1.Eta():0.156158 lep_1.Phi():-2.60938 lep_1.M():0.000510998
+lep_2.Pt():15.6838 lep_2.Eta():-1.60913 lep_2.Phi():2.69775 lep_2.M():0.105658
+MET_JER_pt:59.8786 MET_JER_phi:0.365835
+ttbar_reco: 0
+------------------------
+vecJet.Pt():69.315 vecJet.Eta():1.70581 vecJet.Phi():-1.41699 vecJet.M():-9.59353
+vecJet.Pt():27.2045 vecJet.Eta():-2.25391 vecJet.Phi():-2.96143 vecJet.M():4.95269
+lep_1.Pt():82.6992 lep_1.Eta():1.38574 lep_1.Phi():1.44727 lep_1.M():0.105658
+lep_2.Pt():31.8843 lep_2.Eta():0.511841 lep_2.Phi():-2.78223 lep_2.M():0.000510999
+MET_JER_pt:105.283 MET_JER_phi:-1.13184
+ttbar_reco: 0
+------------------------
+vecJet.Pt():82.4 vecJet.Eta():-0.934326 vecJet.Phi():1.9187 vecJet.M():-15.4733
+lep_1.Pt():74.0081 lep_1.Eta():-1.29932 lep_1.Phi():-0.267761 lep_1.M():0.105658
+lep_2.Pt():31.8698 lep_2.Eta():-2.39063 lep_2.Phi():2.16357 lep_2.M():0.105658
+MET_JER_pt:72.8799 MET_JER_phi:-2.11959
+ttbar_reco: 0
+------------------------
+vecJet.Pt():140.174 vecJet.Eta():-0.0408325 vecJet.Phi():2.32129 vecJet.M():-11.1002
+vecJet.Pt():48.3113 vecJet.Eta():-2.24609 vecJet.Phi():-1.22217 vecJet.M():5.58842
+vecJet.Pt():45.4957 vecJet.Eta():2.24414 vecJet.Phi():1.79565 vecJet.M():-6.60094
+lep_1.Pt():85.2175 lep_1.Eta():1.59131 lep_1.Phi():-1.65039 lep_1.M():0.105658
+lep_2.Pt():25.1983 lep_2.Eta():0.538818 lep_2.Phi():2.9248 lep_2.M():0.000510999
+MET_JER_pt:99.1596 MET_JER_phi:0.571902
+ttbar_reco: 1
+------------------------
+vecJet.Pt():146.857 vecJet.Eta():-1.39087 vecJet.Phi():-1.13208 vecJet.M():-17.1094
+vecJet.Pt():68.4041 vecJet.Eta():0.477051 vecJet.Phi():-0.176636 vecJet.M():11.6711
+vecJet.Pt():21.1394 vecJet.Eta():-0.22818 vecJet.Phi():2.34131 vecJet.M():-4.00677
+lep_1.Pt():87.3962 lep_1.Eta():-2.09863 lep_1.Phi():1.92578 lep_1.M():0.000510984
+lep_2.Pt():17.8009 lep_2.Eta():-0.49353 lep_2.Phi():1.77661 lep_2.M():0.105658
+MET_JER_pt:84.4524 MET_JER_phi:-1.41306
+ttbar_reco: 0
+------------------------
+vecJet.Pt():113.82 vecJet.Eta():0.381042 vecJet.Phi():-0.287598 vecJet.M():19.743
+vecJet.Pt():78.9581 vecJet.Eta():0.210236 vecJet.Phi():-2.59863 vecJet.M():-9.32318
+lep_1.Pt():55.1215 lep_1.Eta():1.27686 lep_1.Phi():1.2981 lep_1.M():0.000510999
+lep_2.Pt():23.1827 lep_2.Eta():-0.111359 lep_2.Phi():-0.0448608 lep_2.M():0.000510999
+MET_JER_pt:164.099 MET_JER_phi:2.92744
+ttbar_reco: 0
+------------------------
+vecJet.Pt():49.2768 vecJet.Eta():-0.408875 vecJet.Phi():-2.43799 vecJet.M():-7.92221
+vecJet.Pt():35.8782 vecJet.Eta():0.806519 vecJet.Phi():0.565918 vecJet.M():-4.78685
+vecJet.Pt():20.4008 vecJet.Eta():1.70679 vecJet.Phi():-1.62207 vecJet.M():4.19429
+lep_1.Pt():62.6161 lep_1.Eta():-0.392395 lep_1.Phi():2.49756 lep_1.M():0.000510999
+lep_2.Pt():46.1047 lep_2.Eta():-0.833496 lep_2.Phi():-1.63696 lep_2.M():0.105658
+MET_JER_pt:59.5374 MET_JER_phi:0.605956
+ttbar_reco: 1
+------------------------
+vecJet.Pt():29.3391 vecJet.Eta():-0.294861 vecJet.Phi():-0.924805 vecJet.M():-5.21875
+vecJet.Pt():27.7636 vecJet.Eta():1.21606 vecJet.Phi():0.548096 vecJet.M():-4.81372
+lep_1.Pt():147.225 lep_1.Eta():0.309204 lep_1.Phi():1.3501 lep_1.M():0.000510999
+lep_2.Pt():16.2762 lep_2.Eta():0.692261 lep_2.Phi():-2.40771 lep_2.M():0.105658
+MET_JER_pt:152.717 MET_JER_phi:-2.34084
+ttbar_reco: 1
+------------------------
+vecJet.Pt():92.9261 vecJet.Eta():-1.5979 vecJet.Phi():-0.232086 vecJet.M():12.1774
+vecJet.Pt():29.4064 vecJet.Eta():1.11792 vecJet.Phi():-1.43823 vecJet.M():6.37711
+lep_1.Pt():65.6372 lep_1.Eta():-0.888062 lep_1.Phi():-2.06738 lep_1.M():0.000510999
+lep_2.Pt():17.8927 lep_2.Eta():0.372803 lep_2.Phi():-0.243195 lep_2.M():0.105658
+MET_JER_pt:149.068 MET_JER_phi:2.31862
+ttbar_reco: 0
+------------------------
+vecJet.Pt():64.7473 vecJet.Eta():-1.36377 vecJet.Phi():-2.91406 vecJet.M():-16.7633
+vecJet.Pt():23.3504 vecJet.Eta():-0.588257 vecJet.Phi():2.18457 vecJet.M():6.23668
+vecJet.Pt():22.5618 vecJet.Eta():0.399109 vecJet.Phi():-0.877075 vecJet.M():4.77181
+lep_1.Pt():89.4231 lep_1.Eta():-1.92163 lep_1.Phi():0.982178 lep_1.M():0.105658
+lep_2.Pt():34.3666 lep_2.Eta():-2.19434 lep_2.Phi():-2.72119 lep_2.M():0.105658
+MET_JER_pt:134.376 MET_JER_phi:-0.148565
+ttbar_reco: 1
+------------------------
+vecJet.Pt():41.6997 vecJet.Eta():-1.36792 vecJet.Phi():-2.05762 vecJet.M():-8.23766
+vecJet.Pt():22.4778 vecJet.Eta():0.381897 vecJet.Phi():0.28479 vecJet.M():5.56621
+lep_1.Pt():81.8481 lep_1.Eta():0.143982 lep_1.Phi():2.96973 lep_1.M():0.000510999
+lep_2.Pt():49.8158 lep_2.Eta():-0.184174 lep_2.Phi():1.58569 lep_2.M():0.000510999
+MET_JER_pt:97.9257 MET_JER_phi:-0.793041
+ttbar_reco: 0
+------------------------
+vecJet.Pt():53.3241 vecJet.Eta():-0.424866 vecJet.Phi():1.85962 vecJet.M():10.1957
+vecJet.Pt():51.3406 vecJet.Eta():-1.65039 vecJet.Phi():-1.79395 vecJet.M():-11.0661
+lep_1.Pt():113.101 lep_1.Eta():0.978882 lep_1.Phi():0.557617 lep_1.M():0.105658
+lep_2.Pt():25.3517 lep_2.Eta():-0.011713 lep_2.Phi():-1.51709 lep_2.M():0.000510999
+MET_JER_pt:60.8749 MET_JER_phi:-2.58035
+ttbar_reco: 0
+------------------------
+vecJet.Pt():46.8349 vecJet.Eta():-0.155365 vecJet.Phi():-0.80957 vecJet.M():-6.68568
+vecJet.Pt():23.2435 vecJet.Eta():-0.0525055 vecJet.Phi():0.684082 vecJet.M():-4.41204
+lep_1.Pt():43.1841 lep_1.Eta():2.12012 lep_1.Phi():3.05957 lep_1.M():0.105658
+lep_2.Pt():19.5587 lep_2.Eta():-0.456909 lep_2.Phi():-2.79785 lep_2.M():0.105658
+MET_JER_pt:62.8057 MET_JER_phi:0.40267
+ttbar_reco: 0
+------------------------
+vecJet.Pt():39.2764 vecJet.Eta():1.29834 vecJet.Phi():-1.95435 vecJet.M():-6.82158
+lep_1.Pt():54.6255 lep_1.Eta():0.865723 lep_1.Phi():1.4646 lep_1.M():0.000510999
+lep_2.Pt():45.2764 lep_2.Eta():1.61377 lep_2.Phi():-2.55225 lep_2.M():0.105658
+MET_JER_pt:97.8733 MET_JER_phi:-0.0287746
+ttbar_reco: 0
+------------------------
+vecJet.Pt():59.3326 vecJet.Eta():1.4458 vecJet.Phi():0.713623 vecJet.M():-11.0119
+vecJet.Pt():58.1156 vecJet.Eta():0.323792 vecJet.Phi():-1.35962 vecJet.M():-6.99454
+lep_1.Pt():47.8159 lep_1.Eta():1.12085 lep_1.Phi():-1.31763 lep_1.M():0.000510998
+lep_2.Pt():45.2052 lep_2.Eta():0.505371 lep_2.Phi():-2.82861 lep_2.M():0.105658
+MET_JER_pt:77.3677 MET_JER_phi:2.49407
+ttbar_reco: 1
+------------------------
+vecJet.Pt():55.6954 vecJet.Eta():-1.03564 vecJet.Phi():1.58838 vecJet.M():11.1903
+vecJet.Pt():51.1469 vecJet.Eta():0.028038 vecJet.Phi():2.83398 vecJet.M():-9.66611
+lep_1.Pt():67.402 lep_1.Eta():-0.564697 lep_1.Phi():0.220032 lep_1.M():0.000510998
+lep_2.Pt():43.0431 lep_2.Eta():-0.139343 lep_2.Phi():-1.37305 lep_2.M():0.105658
+MET_JER_pt:62.7421 MET_JER_phi:-2.03909
+ttbar_reco: 1
+------------------------
+vecJet.Pt():74.8175 vecJet.Eta():0.353271 vecJet.Phi():-1.93286 vecJet.M():11.434
+vecJet.Pt():65.6751 vecJet.Eta():-0.282227 vecJet.Phi():2.80957 vecJet.M():11.6796
+vecJet.Pt():47.3756 vecJet.Eta():0.957397 vecJet.Phi():2.49121 vecJet.M():-8.40277
+lep_1.Pt():130.594 lep_1.Eta():0.347595 lep_1.Phi():1.56738 lep_1.M():0.105658
+lep_2.Pt():21.1295 lep_2.Eta():0.519409 lep_2.Phi():-1.16895 lep_2.M():0.000510999
+MET_JER_pt:160.942 MET_JER_phi:-0.652891
+ttbar_reco: 1
+------------------------
+vecJet.Pt():75.4545 vecJet.Eta():0.804077 vecJet.Phi():2.38574 vecJet.M():-12.3445
+vecJet.Pt():56.544 vecJet.Eta():2.18018 vecJet.Phi():-0.505981 vecJet.M():6.25096
+lep_1.Pt():53.5198 lep_1.Eta():1.10303 lep_1.Phi():2.90137 lep_1.M():0.000510998
+lep_2.Pt():18.3094 lep_2.Eta():-0.802979 lep_2.Phi():1.32056 lep_2.M():0.000510999
+MET_JER_pt:96.1835 MET_JER_phi:-0.330556
+ttbar_reco: 0
+------------------------
+vecJet.Pt():88.0137 vecJet.Eta():0.812744 vecJet.Phi():-1.89429 vecJet.M():-14.7268
+vecJet.Pt():36.5347 vecJet.Eta():-0.224152 vecJet.Phi():1.92212 vecJet.M():-7.20154
+lep_1.Pt():64.257 lep_1.Eta():0.39502 lep_1.Phi():-0.593994 lep_1.M():0.000510999
+lep_2.Pt():55.4191 lep_2.Eta():1.19775 lep_2.Phi():1.25806 lep_2.M():0.105658
+MET_JER_pt:76.5555 MET_JER_phi:2.25574
+ttbar_reco: 1
+------------------------
+vecJet.Pt():91.3897 vecJet.Eta():0.711792 vecJet.Phi():-0.709351 vecJet.M():-12.1686
+lep_1.Pt():59.2907 lep_1.Eta():-0.207855 lep_1.Phi():-0.239746 lep_1.M():0.000510999
+lep_2.Pt():21.3331 lep_2.Eta():0.954712 lep_2.Phi():1.36646 lep_2.M():0.105658
+MET_JER_pt:136.762 MET_JER_phi:2.59589
+ttbar_reco: 0
+------------------------
+vecJet.Pt():81.5699 vecJet.Eta():-1.34106 vecJet.Phi():-2.8125 vecJet.M():13.2136
+vecJet.Pt():77.7789 vecJet.Eta():-0.682129 vecJet.Phi():0.305969 vecJet.M():-12.7842
+lep_1.Pt():63.1167 lep_1.Eta():-2.04736 lep_1.Phi():-1.18262 lep_1.M():0.105658
+lep_2.Pt():26.9996 lep_2.Eta():-0.536133 lep_2.Phi():-1.81763 lep_2.M():0.000510999
+MET_JER_pt:77.3577 MET_JER_phi:1.1348
+ttbar_reco: 1
+------------------------
+vecJet.Pt():150.884 vecJet.Eta():-0.316589 vecJet.Phi():2.74658 vecJet.M():-16.0837
+vecJet.Pt():41.95 vecJet.Eta():-0.547974 vecJet.Phi():0.543579 vecJet.M():7.84399
+lep_1.Pt():61.979 lep_1.Eta():0.61853 lep_1.Phi():-2.63232 lep_1.M():0.105658
+lep_2.Pt():60.1229 lep_2.Eta():0.185944 lep_2.Phi():-0.762817 lep_2.M():0.000510999
+MET_JER_pt:102.042 MET_JER_phi:-0.190522
+ttbar_reco: 1
+------------------------
+vecJet.Pt():129.822 vecJet.Eta():1.44116 vecJet.Phi():-1.0564 vecJet.M():22.988
+vecJet.Pt():73.1704 vecJet.Eta():0.256042 vecJet.Phi():-0.995117 vecJet.M():14.1768
+lep_1.Pt():50.8728 lep_1.Eta():1.76025 lep_1.Phi():2.67285 lep_1.M():0.105658
+lep_2.Pt():38.6414 lep_2.Eta():0.552246 lep_2.Phi():-2.59912 lep_2.M():0.000510999
+MET_JER_pt:157.826 MET_JER_phi:2.22356
+ttbar_reco: 0
+------------------------
+vecJet.Pt():73.5244 vecJet.Eta():0.145477 vecJet.Phi():1.07471 vecJet.M():-10.6021
+lep_1.Pt():64.027 lep_1.Eta():-0.571289 lep_1.Phi():-2.75977 lep_1.M():0.000510999
+lep_2.Pt():31.9631 lep_2.Eta():-1.37866 lep_2.Phi():1.20679 lep_2.M():0.000510999
+MET_JER_pt:115.013 MET_JER_phi:-0.529289
+ttbar_reco: 0
+------------------------
+vecJet.Pt():54.9683 vecJet.Eta():-0.970703 vecJet.Phi():-2.3291 vecJet.M():-9.80236
+lep_1.Pt():40.6652 lep_1.Eta():-0.4245 lep_1.Phi():-2.03125 lep_1.M():0.105658
+lep_2.Pt():23.1651 lep_2.Eta():-2.36963 lep_2.Phi():2.5127 lep_2.M():0.105658
+MET_JER_pt:98.3368 MET_JER_phi:0.805676
+ttbar_reco: 0
+------------------------
+vecJet.Pt():186.42 vecJet.Eta():0.565552 vecJet.Phi():0.0633698 vecJet.M():-17.319
+vecJet.Pt():109.091 vecJet.Eta():-0.868286 vecJet.Phi():-2.75195 vecJet.M():-16.1316
+vecJet.Pt():79.1087 vecJet.Eta():0.302856 vecJet.Phi():-1.23535 vecJet.M():9.81779
+vecJet.Pt():34.9399 vecJet.Eta():0.0382156 vecJet.Phi():-2.24219 vecJet.M():6.68785
+vecJet.Pt():30.828 vecJet.Eta():-1.2356 vecJet.Phi():2.90625 vecJet.M():5.52995
+vecJet.Pt():30.7896 vecJet.Eta():-1.84985 vecJet.Phi():-3.11279 vecJet.M():5.86003
+lep_1.Pt():112.522 lep_1.Eta():0.0471802 lep_1.Phi():3.02734 lep_1.M():0.000510999
+lep_2.Pt():27.7596 lep_2.Eta():1.40771 lep_2.Phi():1.59448 lep_2.M():0.105658
+MET_JER_pt:70.5631 MET_JER_phi:0.622256
+ttbar_reco: 1
+------------------------
+vecJet.Pt():86.6471 vecJet.Eta():-1.56201 vecJet.Phi():-2.81152 vecJet.M():13.9994
+vecJet.Pt():61.8932 vecJet.Eta():-1.36279 vecJet.Phi():3.02881 vecJet.M():-11.9385
+vecJet.Pt():48.3031 vecJet.Eta():0.741699 vecJet.Phi():-0.346497 vecJet.M():10.1309
+vecJet.Pt():44.5954 vecJet.Eta():1.25415 vecJet.Phi():0.839111 vecJet.M():-7.52745
+vecJet.Pt():34.8158 vecJet.Eta():0.325867 vecJet.Phi():0.747192 vecJet.M():6.7351
+vecJet.Pt():24.1064 vecJet.Eta():-1.75244 vecJet.Phi():-0.0441895 vecJet.M():-5.14068
+lep_1.Pt():46.4036 lep_1.Eta():-0.842285 lep_1.Phi():0.136749 lep_1.M():0.105658
+lep_2.Pt():45.0659 lep_2.Eta():-0.530762 lep_2.Phi():-1.52588 lep_2.M():0.000510999
+MET_JER_pt:74.8656 MET_JER_phi:2.86114
+ttbar_reco: 1
+------------------------
+vecJet.Pt():65.0702 vecJet.Eta():0.362427 vecJet.Phi():-2.96143 vecJet.M():-11.7824
+vecJet.Pt():40.8695 vecJet.Eta():-1.71094 vecJet.Phi():-1.78247 vecJet.M():9.65708
+lep_1.Pt():70.2608 lep_1.Eta():-0.751587 lep_1.Phi():-0.970093 lep_1.M():0.105658
+lep_2.Pt():41.7012 lep_2.Eta():-1.19214 lep_2.Phi():0.362671 lep_2.M():0.105658
+MET_JER_pt:64.4233 MET_JER_phi:1.24579
+ttbar_reco: 1
+------------------------
+vecJet.Pt():52.1922 vecJet.Eta():-0.28125 vecJet.Phi():1.63916 vecJet.M():-9.81725
+vecJet.Pt():23.3653 vecJet.Eta():-2.28076 vecJet.Phi():1.50757 vecJet.M():5.05217
+vecJet.Pt():22.5774 vecJet.Eta():2.25879 vecJet.Phi():-1.29541 vecJet.M():-4.44401
+lep_1.Pt():127.757 lep_1.Eta():-0.0727081 lep_1.Phi():-1.88647 lep_1.M():0.105658
+lep_2.Pt():39.6161 lep_2.Eta():0.467346 lep_2.Phi():2.99414 lep_2.M():0.000510999
+MET_JER_pt:79.3037 MET_JER_phi:2.78556
+ttbar_reco: 0
+------------------------
+vecJet.Pt():73.3421 vecJet.Eta():0.7229 vecJet.Phi():-1.02515 vecJet.M():10.0019
+lep_1.Pt():99.9122 lep_1.Eta():0.249847 lep_1.Phi():-0.0658417 lep_1.M():0.105658
+lep_2.Pt():23.8267 lep_2.Eta():1.27271 lep_2.Phi():-2.43604 lep_2.M():0.000510999
+MET_JER_pt:83.9316 MET_JER_phi:1.80966
+ttbar_reco: 0
+------------------------
+vecJet.Pt():103.589 vecJet.Eta():-0.476318 vecJet.Phi():2.62305 vecJet.M():13.2689
+vecJet.Pt():57.4813 vecJet.Eta():-1.71899 vecJet.Phi():-2.3999 vecJet.M():8.25681
+vecJet.Pt():35.9289 vecJet.Eta():1.70776 vecJet.Phi():0.0404282 vecJet.M():-6.91245
+lep_1.Pt():56.1397 lep_1.Eta():0.0498199 lep_1.Phi():2.8667 lep_1.M():0.000510999
+lep_2.Pt():19.1415 lep_2.Eta():-1.53784 lep_2.Phi():1.45068 lep_2.M():0.105658
+MET_JER_pt:56.4983 MET_JER_phi:0.0145081
+ttbar_reco: 1
+------------------------
+vecJet.Pt():102.763 vecJet.Eta():-0.183716 vecJet.Phi():-2.08496 vecJet.M():18.0089
+vecJet.Pt():71.2969 vecJet.Eta():0.477356 vecJet.Phi():-2.01221 vecJet.M():-8.29483
+lep_1.Pt():58.2669 lep_1.Eta():-0.869141 lep_1.Phi():-1.68115 lep_1.M():0.105658
+lep_2.Pt():21.6439 lep_2.Eta():-1.69604 lep_2.Phi():0.420044 lep_2.M():0.000510999
+MET_JER_pt:143.025 MET_JER_phi:1.32577
+ttbar_reco: 0
+------------------------
+vecJet.Pt():70.7167 vecJet.Eta():1.15015 vecJet.Phi():0.00129151 vecJet.M():-10.1205
+vecJet.Pt():37.0542 vecJet.Eta():-1.12695 vecJet.Phi():-1.85718 vecJet.M():-6.88656
+lep_1.Pt():40.997 lep_1.Eta():-0.823364 lep_1.Phi():-0.0728455 lep_1.M():0.000510999
+lep_2.Pt():32.2988 lep_2.Eta():0.788696 lep_2.Phi():1.78833 lep_2.M():0.000510999
+MET_JER_pt:107.502 MET_JER_phi:-3.03629
+ttbar_reco: 1
+------------------------
+vecJet.Pt():74.9582 vecJet.Eta():-0.364136 vecJet.Phi():2.50098 vecJet.M():11.3043
+vecJet.Pt():72.3489 vecJet.Eta():-1.20605 vecJet.Phi():-0.602295 vecJet.M():-11.0559
+lep_1.Pt():57.1106 lep_1.Eta():0.575195 lep_1.Phi():-2.33105 lep_1.M():0.000510998
+lep_2.Pt():39.5111 lep_2.Eta():-0.446289 lep_2.Phi():-0.776978 lep_2.M():0.105658
+MET_JER_pt:71.7639 MET_JER_phi:1.85734
+ttbar_reco: 1
+------------------------
+vecJet.Pt():306.464 vecJet.Eta():0.328552 vecJet.Phi():1.07178 vecJet.M():17.0398
+vecJet.Pt():148.778 vecJet.Eta():2.0376 vecJet.Phi():-2.68555 vecJet.M():-16.1565
+vecJet.Pt():146.121 vecJet.Eta():-0.291626 vecJet.Phi():-1.51099 vecJet.M():-18.544
+vecJet.Pt():118.57 vecJet.Eta():-0.461182 vecJet.Phi():-0.679443 vecJet.M():16.7377
+lep_1.Pt():101.642 lep_1.Eta():-2.01514 lep_1.Phi():1.75757 lep_1.M():0.105658
+lep_2.Pt():26.8362 lep_2.Eta():-0.473328 lep_2.Phi():-2.93945 lep_2.M():0.000510999
+MET_JER_pt:161.408 MET_JER_phi:-1.49603
+ttbar_reco: 0
+------------------------
